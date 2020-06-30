@@ -1,0 +1,9 @@
+1|Ideally learners should complete the courses in the specified sequence.|1|1
+2|In the above HTML, we have created two main div left and right. In left div we have a .checkbox div which contain checkbox with its label.|2|2
+3|But besides helping others in need, there are plenty of reasons that now is the perfect time to join Code academy Pro. |3|3
+4|Automatically update Bootstrap navigation or list group components based on scroll position to indicate which link is currently active in the viewport.|4|4
+5|"From now on, to get a grade for this assignment, you must submit your assignment, then peer grade several other student submissions !|5|1
+6|What are the various best way to initialize empty array in PHP ?|6|4
+7|If I don't provide any arguments on the command line, then what will the value stored in the String array passed into the main() method, empty or NULL?|2|2
+8|What is the difference between an object-oriented programming language and object-based programming language?|3|2
+9|You can now share the following web pages to everyone. Click to open:|2|4
